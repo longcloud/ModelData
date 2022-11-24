@@ -1,170 +1,597 @@
-[
-  {
-    "VariableType": "TEMPERATURE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "PRESSURE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLAR_FLOW",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_N2",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_CO2",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_METHANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_ETHANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_PROPANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_IBUTANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_BUTANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_IPENTANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_PENTANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_HEXANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_NONANE",
-    "BlockName": "S-5",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "TEMPERATURE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "PRESSURE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLAR_FLOW",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_N2",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_CO2",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_METHANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_ETHANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_PROPANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_IBUTANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_BUTANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_IPENTANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_PENTANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_HEXANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  },
-  {
-    "VariableType": "MOLEFRACTION_NONANE",
-    "BlockName": "S-11",
-    "Value": "",
-    "UnitType": ""
-  }
-]
+{
+    "caseid": 2,
+    "versionid": 1,
+    "flowsheetid": 1,
+    "Input": [
+        {
+            "VariableType": "TEMPERATURE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "PRESSURE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FLOW",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_N2",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_CO2",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_METHANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_ETHANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PROPANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IBUTANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_BUTANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IPENTANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PENTANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_HEXANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_NONANE",
+            "BlockName": "S-5",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "TEMPERATURE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "PRESSURE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FLOW",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_N2",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_CO2",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_METHANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_ETHANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PROPANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IBUTANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_BUTANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IPENTANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PENTANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_HEXANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_NONANE",
+            "BlockName": "S-11",
+            "Value": "",
+            "UnitType": ""
+        }
+    ],
+    "Output": [
+        {
+            "VariableType": "TEMPERATURE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "PRESSURE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "VAPOR_FRACTION",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FLOW",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_FLOW",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_ENTHALPY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_ENTHALPY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "HEAT_FLOW",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLECULAR_WEIGHT",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLECULAR_WEIGHT",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_DENSITY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_DENSITY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "ACT._VOLUME_FLOW",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "ACT._VOLUME_FLOW",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_ENTROPY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_ENTROPY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_CP",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_FLOW",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "ACENTRIC_FACTOR",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "Z_FACTOR",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "VISCOSITY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "SURFACE_TENSION",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "THERMAL_CONDUCTIVITY",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_N2",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_CO2",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_METHANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_ETHANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PROPANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IBUTANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_BUTANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IPENTANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PENTANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_HEXANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_NONANE",
+            "BlockName": "S-6",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "TEMPERATURE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "PRESSURE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "VAPOR_FRACTION",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FLOW",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_FLOW",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_ENTHALPY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_ENTHALPY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "HEAT_FLOW",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLECULAR_WEIGHT",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLECULAR_WEIGHT",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_DENSITY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_DENSITY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "ACT._VOLUME_FLOW",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "ACT._VOLUME_FLOW",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_ENTROPY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_ENTROPY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_CP",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MASS_FLOW",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "ACENTRIC_FACTOR",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "Z_FACTOR",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "VISCOSITY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "SURFACE_TENSION",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "THERMAL_CONDUCTIVITY",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_N2",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_CO2",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_METHANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_ETHANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PROPANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IBUTANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_BUTANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_IPENTANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_PENTANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_HEXANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "MOLE_FRACTION_NONANE",
+            "BlockName": "S-7",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "PRODUCT_PRESSURE",
+            "BlockName": "D-2",
+            "Value": "",
+            "UnitType": ""
+        },
+        {
+            "VariableType": "PRODUCT_TEMPERATURE",
+            "BlockName": "D-2",
+            "Value": "",
+            "UnitType": ""
+        }
+    ]
+}
