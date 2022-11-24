@@ -1,0 +1,134 @@
+[
+  {
+    "VariableType": "TEMPERATURE",
+    "BlockName": "FEED",
+    "Value": 400,
+    "UnitType": "K" 
+  },
+  {
+    "VariableType": "PRESSURE",
+    "BlockName": "FEED",
+    "Value": 500,
+    "UnitType": "kPa"
+  },
+  {
+    "VariableType": "MOLEFLOW_METHANE",
+    "BlockName": "FEED",
+    "Value": 100000.0,
+    "UnitType": "kmol/h"
+  },
+  {
+    "VariableType": "PRODPRESSURE",
+    "BlockName": "D-1",
+    "Value": 500,
+    "UnitType": "kPa"
+  },
+  {
+    "VariableType": "OUTLETTEMP",
+    "BlockName": "D-1",
+    "Value": 400,
+    "UnitType": "K"
+  },
+  {
+    "VariableType": "OUTLET_PRESSURE",
+    "BlockName": "CO-1",
+    "Value": 1172.1,
+    "UnitType": "kPa"
+  },
+  {
+    "VariableType": "ADIABATIC_EFFICIENCY",
+    "BlockName": "CO-1",
+    "Value": 74,
+    "UnitType": "kPa"
+  },
+  {
+    "VariableType": "OUTLETTEMP",
+    "BlockName": "C-1",
+    "Value": 322.0,
+    "UnitType": "K"
+  },
+  {
+    "VariableType": "TEMPERATURE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "PRESSURE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLAR_FLOW",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_N2",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_CO2",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_METHANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_ETHANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_PROPANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_IBUTANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_BUTANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_IPENTANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_PENTANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_HEXANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_NONANE",
+    "BlockName": "S-7",
+    "Value": 0,
+    "UnitType": ""
+  }
+]

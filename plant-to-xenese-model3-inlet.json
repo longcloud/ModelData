@@ -1,0 +1,26 @@
+[
+  {
+    "VariableType": "OUTLET_PRESSURE",
+    "BlockName": "CO-2",
+    "Value": "2620",
+    "UnitType": "kPa"
+  },
+  {
+    "VariableType": "ADIABATIC_EFFICIENCY",
+    "BlockName": "CO-2",
+    "Value": "72",
+    "UnitType": "kPa"
+  },
+  {
+    "VariableType": "DELTA_P",
+    "BlockName": "C-2",
+    "Value": 34.47,
+    "UnitType": "kPa"
+  },
+  {
+    "VariableType": "OUTLET_TEMPERATURE",
+    "BlockName": "C-2",
+    "Value": 322.0,
+    "UnitType": "kPa"
+  }
+]

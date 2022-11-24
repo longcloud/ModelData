@@ -1,0 +1,86 @@
+[
+  {
+    "VariableType": "TEMPERATURE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "PRESSURE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLAR_FLOW",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_N2",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_CO2",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_METHANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_ETHANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_PROPANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_IBUTANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_BUTANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_IPENTANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_PENTANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_HEXANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  },
+  {
+    "VariableType": "MOLEFRACTION_NONANE",
+    "BlockName": "S-6",
+    "Value": "",
+    "UnitType": ""
+  }
+]
